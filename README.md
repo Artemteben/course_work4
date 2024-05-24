@@ -1,2 +1,5 @@
 # course_work4
-hh
+
+This repository contains the code which get the information from hh.ru
+
+run "the main.py"
