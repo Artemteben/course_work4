@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "course-work4"
+version = "poetry shell"
+description = "poetry shell"
+authors = ["poetry add requests"]
+license = "poetry init"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "poetry init"
+poetry = "install"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
